@@ -1,0 +1,7 @@
+## vs c++ dll
+
+Debug
+ipch
+Filter_dll\Debug
+*.sdf
+*.suo
